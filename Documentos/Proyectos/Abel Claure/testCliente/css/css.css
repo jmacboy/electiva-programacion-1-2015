@@ -1,0 +1,69 @@
+#btnStop{
+    background: #cfe6ef;
+    background: -moz-linear-gradient(top, #cfe6ef 0%, #edfcff 100%);
+    background: -webkit-linear-gradient(top, #cfe6ef 0%,#edfcff 100%);
+    width: 125px;
+    padding: 7px 6px;
+    
+}
+#btnFinalizar{
+    background: #cfe6ef;
+    background: -moz-linear-gradient(top, #cfe6ef 0%, #edfcff 100%);
+    background: -webkit-linear-gradient(top, #cfe6ef 0%,#edfcff 100%);
+    width: 125px;
+    padding: 7px 6px;
+    
+}
+#btnInicio{
+    background: #cfe6ef;
+    background: -moz-linear-gradient(top, #cfe6ef 0%, #edfcff 100%);
+    background: -webkit-linear-gradient(top, #cfe6ef 0%,#edfcff 100%);
+    width: 125px;
+    padding: 7px 6px;
+    
+}
+
+*{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #798e94;
+}
+body{
+    width: 400px;
+    margin: auto;
+    background-color: #E2ECEE;
+}
+#datos{
+    border: 1px solid #CED5D7;
+    border-radius: 6px;
+    padding: 45px 45px 20px;
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 0px 5px 10px #B5C1C5, 0 0 0 10px #EEF5F7 inset;
+ 
+
+     
+}
+
+input[type='text']{
+    padding: 7px 6px;
+    border: 1px solid #CED5D7;
+    box-shadow:0 0 0 3px #EEF5F7;
+    margin: 5px 0;
+    outline: none; /* reset especifico para Chrome/Safari */
+    box-shadow:0 0 0 3px #dde9ec;
+    width: 100%;
+  
+}
+div{
+    margin: .4em 0;
+    
+}
+.contacto{
+    border: 1px solid #CED5D7;
+    border-radius: 6px;
+    padding: 45px 45px 20px;
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 0px 5px 10px #B5C1C5, 0 0 0 10px #EEF5F7 inset;
+}
